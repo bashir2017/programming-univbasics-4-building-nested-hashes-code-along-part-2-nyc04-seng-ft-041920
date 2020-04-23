@@ -1,5 +1,5 @@
 require_relative 'spec_helper'
-require_relative '../lib/updating_nested_hashes.rb'
+require_relative '../lib/updating_nested_hashes_spec.rb'
 
 describe "update_status" do
 	it "returns a hash where the hero and heroine's status is set to dead" do
